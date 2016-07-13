@@ -1,0 +1,15 @@
+.label {
+  font-size: 2em;
+  margin: 10px;
+}
+.table {
+  width: 75%;
+  margin: 20px;
+}
+#sport-list {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+th {
+  font-weight: 300;
+}
